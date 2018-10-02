@@ -41,7 +41,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Are current or upcoming emotions, states, and experiences negative and undermining?",
                 "Where and when will I accomplish my goals? (Implementation intentions)",
@@ -63,7 +63,7 @@ window.itemsdb = {
           name: "Civic Behavior",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Who Could I Become? (Prospective or Potential Identity)",
                 "Where and when will I accomplish my goals? (Implementation intentions)"
@@ -75,7 +75,7 @@ window.itemsdb = {
           name: "Work",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Who Could I Become? (Prospective or Potential Identity)",
                 "What were my goals?"
@@ -117,7 +117,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Are current or upcoming emotions, states, and experiences negative and undermining?",
                 "Where and when will I accomplish my goals? (Implementation intentions)",
@@ -152,7 +152,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Who Do I Not Want to Be, Become, or Be Confused With?",
                 "Can groups change? (Implicit theories of groups)",
@@ -190,7 +190,7 @@ window.itemsdb = {
           name: "Sustainability",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": ["What were my goals?"]
             }
           ]
@@ -205,7 +205,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": ["Am I loved and valued?"]
             }
           ]
@@ -219,7 +219,7 @@ window.itemsdb = {
           name: "Civic Behavior",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "What is typical or valued in my social community? (Descriptive and prescriptive norms)"
               ]
@@ -237,7 +237,7 @@ window.itemsdb = {
           name: "Crime",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "What is typical or valued here? (Descriptive and prescriptive norms of a context)"
               ]
@@ -264,7 +264,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 'Can people "like me" come to belong?',
                 "Am I connected with important people in school or work settings?",
@@ -297,7 +297,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Am I noticed by others?",
                 "Am I connected to others?",
@@ -312,7 +312,7 @@ window.itemsdb = {
           name: "Intergroup relationships",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "What is typical or valued in my social community? (Descriptive and prescriptive norms)"
               ]
@@ -323,7 +323,7 @@ window.itemsdb = {
           name: "Retirement savings",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Will this behavior help other people?"
               ]
@@ -352,7 +352,7 @@ window.itemsdb = {
               "Psychological Questions": ["Am I connected to others?"]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": ["Am I connected to others?"]
             }
           ]
@@ -361,7 +361,7 @@ window.itemsdb = {
           name: "Work",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Am I connected with important people in school or work settings?",
                 "Am I working together with others to accomplish personal or collective goals?",
@@ -383,7 +383,7 @@ window.itemsdb = {
               "Psychological Questions": ["Did I say I would do it?"]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": ["Did I say I would do it?"]
             }
           ]
@@ -473,7 +473,7 @@ window.itemsdb = {
               ]
             },
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": ["Did I say I would do it?"]
             }
           ]
@@ -482,7 +482,7 @@ window.itemsdb = {
           name: "Well-Being",
           "Intervention Technique": [
             {
-              name: "Prompting Meanings",
+              name: "Prompting new Meanings",
               "Psychological Questions": [
                 "Can I manage a stressful or threatening academic experience?"
               ]
